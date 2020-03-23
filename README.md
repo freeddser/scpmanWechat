@@ -1,6 +1,9 @@
 This is Send message to Wechat application package. You can use
 [Github](https://github.com/freeddser/scpmanWechat)
 
+### View at:
+    https://pypi.org/project/scpmanWechat/1.0.3/
+
 ### pip install scpmanWechat
 ### demo
     from scpmanWechat import QYWeChatBot
